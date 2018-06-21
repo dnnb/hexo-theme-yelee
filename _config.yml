@@ -9,8 +9,8 @@ Yelee: "3.5"
 menu:
   主页: /
   所有文章: /archives/
-  #随笔: /tags/随笔
-  标签云: /tags/
+  # 随笔: /tags/随笔
+  # 标签云: /tags/
   关于我: /about/
 
 # Link to your avatar | 填写头像地址
@@ -187,7 +187,7 @@ friends:
 #friends: false
 
 #是否开启“关于我”。
-aboutme: 关于我
+aboutme: 成一事者，矢志不渝之愚者；毁一事者，停滞不前之贤者。
 # aboutme: false
 
 # Open link in a new tab | 是否在新窗口打开链接
@@ -207,7 +207,7 @@ open_in_new:
   socail: true # 社交图标
 
 # Customize feed link 自定义订阅地址
-rss: /atom.xml
+# rss: /atom.xml
 
 # Update Reminder for IE6/7/8
 # 针对 IE6/7/8 的升级浏览器提示
